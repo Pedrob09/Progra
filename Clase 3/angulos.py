@@ -11,4 +11,4 @@ if angulo_a > 0 and angulo_b > 0 and angulo_c > 0 and angulo_a + angulo_b + angu
         print("el triangulo es escaleno")
 else:
     print("favor ingresar valores correctos")
-    print("olamundo")
+    
