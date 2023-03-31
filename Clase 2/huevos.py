@@ -5,5 +5,4 @@ Tazas_harina = 8 * Queques
 Tazas_leche = (1/2) * Queques
 print("Para la cantidad de", Invitados, "invitados, se necesitan:", Huevos,
       "huevos,", Tazas_harina, "tazas de harina y", Tazas_leche, "tazas de leche")
-      print("Hola mundo")
       
